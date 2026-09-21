@@ -1,0 +1,61 @@
+  .amazon-link{
+    color: rgb(0,113,133);
+  }
+
+  .amazon-link:hover{
+    color: rgba(248, 163, 5, 0.89);
+  }
+  .shoes-paragraph{
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+  
+
+  .price-paragraph{
+    color: rgb(0,118,0);
+    font-size: 18px;
+    font-weight: bold;
+
+  }
+
+  .add-button{
+    background-color: rgb(255,216,20);
+    color: black;
+    height: 35px;
+    width: 150px;
+    border: none;
+    font-size: 17px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+
+  .add-button:hover{
+    background-color: rgb(236, 198, 7) ;
+  }
+
+  .add-button:active{
+    background-color: rgba(247, 202, 17, 0.775);
+  }
+  
+  .buy-button{
+    background-color: rgb(255,164,28);
+    color: black;
+    height: 35px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 17px;
+    transition: opacity 0,15s;
+
+  }
+
+  .buy-button:hover{
+    background-color: orange;
+  }
+
+  .buy-button:active{
+    opacity: 0.5;
+  }

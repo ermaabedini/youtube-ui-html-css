@@ -1,0 +1,227 @@
+
+  .tahoma-text{
+    font-family: Tahoma; 
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    margin-bottom: 15px;
+  }
+
+  .deal-text{
+    font-family: Arial;
+    color: black;
+    font-weight: bold;
+    font-size: 27px;
+    width: 340px;
+    margin-bottom: 20px;;
+
+    
+  
+  }
+
+  p{
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  .sales-text{
+    font-family: Arial;
+    color: red;
+    font-style: italic;
+    font-size:15px;
+    margin-top:40px;
+
+  }
+
+  .course-text{
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    margin-bottom: 2px;
+  }
+
+  .level-text{
+    font-family: Verdana;
+    font-size: 15px;
+    color: gray;
+    margin-bottom: 12px;
+
+  }
+
+  .description-text{
+    font-family: Verdana;
+    font-size: 16px;
+    color: black;
+    line-height: 22px;
+    width: 300px;
+  }
+
+  .start-button{
+    background-color: green;
+    color: white;
+    border: none;
+    padding-left: 18px;
+    padding-right:18px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 4px;
+    margin-top: 15px;
+    cursor: pointer;
+    
+  }
+
+  .title{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  .content{
+    font-family: Arial;
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .learn-text{
+    color:rgb(69, 85, 232);
+    font-size: 12px;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 15px;
+    cursor: pointer;
+    margin-bottom: 35px;
+  }
+
+  .new-title{
+    font-family: Arial;
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(245, 162, 7);
+    margin-top: 20px;
+  }
+
+  .content-title{
+    font-family: Arial;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    margin-top:10px;
+    font-weight: bold;
+    list-style: 30px;
+
+  }
+
+  .subtitle{
+    font-family: Arial;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    line-height: 30px;
+    font-weight: bold;
+  }
+
+  .price{
+    font-family: Arial;
+    font-size:12px;
+    color: gray;
+    text-align: center;
+    margin-top: 10px;
+    line-height: 22px;
+
+  }
+
+  .buy-button{
+    background-color: rgb(0, 114, 241);
+    color: white;
+    border:none;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    border-radius: 30px;
+    margin-top: 10px;
+  }
+
+  .price-number{
+    margin-top: 20px;
+    font-family: Arial;
+    font-size: 32px;
+    color: black;
+
+  }
+
+  .price-text{
+    color: gray;
+    font-family: Arial;
+    font-size: 14px;
+    margin-left: 2px;
+  }
+
+  .number-text{
+    font-family: Arial;
+    font-size: 12px;
+    color: green;
+    margin-bottom: 8px;
+  }
+
+  .after-hours{
+    font-family: Arial;
+    font-size: 12px;
+    color: gray;
+    margin-bottom: 40px;
+  }
+
+  .percentage{
+    color: red;
+
+  }
+
+  .name{
+    font-family: Arial;
+    font-weight: bold;
+    font-size:14px;
+    color: black;
+    margin-bottom: 6px;
+  }
+
+  .activity{
+    font-family: Arial;
+    color: gray;
+    margin-left: 4px;
+    margin-bottom: 18px;
+    font-weight: 200;
+  }
+
+  .sentence{
+    font-family: Arial;
+    font-size: 14px;
+    width: 500px;
+    margin-bottom: 20px;
+    line-height: 20px;
+  }
+
+  .explanation{
+    font-family: Arial;
+    font-size:14px;
+    color:black;
+    margin-bottom: 70px;
+    line-height: 20px;
+  }
+
+  .channel{
+    color:rgb(90, 185, 244)
+  }
+
+
+
+
