@@ -1,0 +1,145 @@
+.square{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.circle{
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.elements{
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+    border-color: rgb(150, 150, 150);
+    padding: 10px 8px;
+    margin-left: 16px;
+    vertical-align: top;
+}
+
+.texts{
+  background-color: rgb(48, 46, 46);
+  padding: 20px 15px;
+  width: 350px;
+  height: 110px;
+
+}
+
+.install{
+  font-family: Arial;
+  font-size: 19px;
+  font-weight: bold;
+  color: white;
+  line-height: 22px;
+}
+
+.add{
+  color: rgb(109, 108, 108);
+  line-height: 22px;
+
+}
+
+
+.shadow{
+  box-shadow: 0px 0px 7px rgb(0, 0, 0, 0.3);
+  margin-top: 38px;
+  border: 1px;
+  border-radius: 4px;
+  display: block;
+  padding: 4px 6px;
+}
+
+.zemra-img{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center;
+    margin-left: 10px;
+    border-radius: 30px;
+    vertical-align: middle;
+  }
+  
+.question{
+   font-size: 14px;
+   line-height: 35px;
+   border: none;
+   margin-left: 3px;
+   padding-right: 30px;
+   vertical-align: middle;
+  }
+
+  .tweet-button{
+    background-color: rgb(79, 143, 233);
+    color:white;
+    border:none;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 14px;
+    width: 60px;
+    height: 25px;
+    padding-left: 12px;
+    border-radius: 25px;
+    line-height: 22px;
+    vertical-align: middle;
+
+  }
+
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial;
+
+}
+.profile{
+  height: 230px;
+  margin-top: 20px;
+  display: inline-block;
+  box-shadow: 0 1px 7px rgba(0,0,0,0.3);
+  margin-left: 6px;
+
+}
+
+.zemra-ime2{
+  width: 150px;
+  height: 140px;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.name{
+  font-weight: bold;
+  font-size: 15px;
+  padding-left: 3px;
+  vertical-align: middle;
+}
+
+.follow{
+  font-size: 12px;
+  margin-bottom: 10px;
+  padding-left: 3px;
+  padding-top: 3px;
+  color: gray;
+  font-weight: 200;
+  vertical-align: middle;
+
+}
+
+.add-button{
+  margin-bottom: 130px;
+  background-color: rgb(58, 125, 243);
+  color:white;
+  border:none;
+  padding: 10px 16px;
+  margin-left: 6px;
+  border-radius: 4px;
+  font-size: 13px;
+  vertical-align: middle;
+}
+
+
