@@ -1,0 +1,26 @@
+.flexbox{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+
+}
+
+.column1{
+    align-items: center;
+    display: flex;
+    background-color: lightpink;
+    width: 100px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.item1{
+  background-color: black;
+  color:white;
+
+}
+
+.item2{
+  background-color: lightblue;
+  width: 200px;
+}
